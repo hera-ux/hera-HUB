@@ -1,1 +1,2 @@
 # hera-HUB
+hera-hub es mi herramienta personal con funcionalidades programadas por mi practicando bash y python de momento contiene un generador contraseñas seguras totalmente funcional una automatizacion para scanear que ips hay en la red conectada y proximamente quiero intentar que detecte de que os procede funcionalidad basica para sherlock proximamente intentare mejorarla y un script que hice hace tiempo de prueba para instalar funcionalidades basicas en un arch limpio 
